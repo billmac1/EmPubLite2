@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0-35cb5aa8a89c0587f00951484943aa336162bfa7.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-b7d7dbd259f64d5b25263c3ce60fbb6aa242ae1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-325781a7705325aecb1fa325764bb7b4186d7ecf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8daaab8ce788c9cf8329536e8a93d6a922d7ec59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\classes-7142007348f8fb1db915b1cf6db11d6df6450728.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\classes-74c228f3164bc52fceef7c8c3d87891bda465301.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-85fcc43dd556b8c39be67d296b55d573fa4ff40f.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-8623cd5a32a4c23e977c9045808fc07002cbd970.jar" />
+    </item>
+    <item
+        jar="C:\Develop\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-9917989fee3b83e5e393aaaba9d469808f2f0d2b.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\gson-2.3.1-8cc9110477ee9d51da4436a16e6aded2493fa6f1.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11-e3e5d9fca4f1a4919a45eed5431c835263853d54.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.3.1-f7535f0578d5238ab6211a27048e5f6a520d345c.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-765fa493ce76635984374a1acfaebacc67c4f4f8.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-studio\android-studio\gradle\gradle-2.2.1\bin\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\Owner\Documents\AndroidProjects\EmPubLite2\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.3.1-8e4a555ba3f177ba8df14903a8ed83789e917b43.jar" />
+    </item>
+
+</items>

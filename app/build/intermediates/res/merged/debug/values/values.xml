@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Owner/Documents/AndroidProjects/EmPubLite2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about">About</string>
+    <string name="app_name">EmpubLite2</string>
+    <string name="hello">I am the ffffffirst activity!</string>
+    <string name="help">Help</string>
+    <string name="other">I am the other activity!</string>
+    <!-- From: file:/C:/Users/Owner/Documents/AndroidProjects/EmPubLite2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
